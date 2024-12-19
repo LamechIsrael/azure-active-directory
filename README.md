@@ -22,11 +22,16 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Create a Virtual Machine to work as a Domain Controller (called "dc-1")
+- Create a Virtual Machine to work as a Client (called "client-1")
+- Set dc-1 (Domain Controller) IP Address to Static
+- Set client-1 DNS as the Domain Controller's private IP address
+- From client-1, ping dc-1's private IP Address to ensure connectivity
+- Ensure that client-1's DNS is dc-1's IP address
+- Add Active Directory Domain Services to dc-1
+- Promote dc-1 to a Domain Controller
+- Sign in to client-1 and add it to the Active Directory domain.
+- Set Group Policy
 
 <h2>Installation Steps</h2>
 
