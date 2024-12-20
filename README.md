@@ -1,15 +1,15 @@
 <p align="center">
-[image](https://github.com/user-attachments/assets/afd59999-c731-42cf-9ac8-fa68e38e864d)
+![Azure+Banner](https://github.com/user-attachments/assets/4f32fef8-aa9d-4b33-a07d-fbcc0437295b)
 
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<!<h1>osTicket - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+<!-- <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com) -->
 
 <h2>Environments and Technologies Used</h2>
 
