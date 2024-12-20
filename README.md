@@ -3,7 +3,7 @@
 
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Configuring Active Directory within Azure VMs</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
