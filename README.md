@@ -1,5 +1,5 @@
 <p align="center">
-![Azure+Banner](https://github.com/user-attachments/assets/4f32fef8-aa9d-4b33-a07d-fbcc0437295b)
+<img src="https://github.com/user-attachments/assets/e16ec164-e5ae-4069-8476-dfc5b3e3f8bd" alt="Azure Banner"/>
 
 </p>
 
@@ -37,7 +37,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1471" alt="Screenshot 2024-12-18 at 8 25 15 PM" src="https://github.com/user-attachments/assets/a8ada0d1-2e53-4d13-9cca-2998603c7fff" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
