@@ -4,7 +4,7 @@
 </p>
 
 <h1>Configuring Active Directory within Azure VMs</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+This tutorial outlines the implementation of an active directory using Microsoft Azure.<br />
 
 
 <!-- <h2>Video Demonstration</h2>
