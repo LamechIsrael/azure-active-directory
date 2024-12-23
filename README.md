@@ -21,7 +21,7 @@ This tutorial outlines the implementation of an active directory using Microsoft
 - Windows 10</b> (21H2)
 - Windows Server
 
-<h2>List of Prerequisites</h2>
+<h2>List of Configuration Steps</h2>
 
 - Create a Virtual Machine to work as a Domain Controller (called "dc-1")
 - Create a Virtual Machine to work as a Client (called "client-1")
